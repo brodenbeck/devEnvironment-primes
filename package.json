@@ -1,0 +1,20 @@
+{
+  "name": "primes-web-dev-environment",
+  "version": "0.0.1",
+  "description": "setting up basic dev environment using primes kata",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-jasmine": "^2.3.0",
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.2",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "britta rodenbeck",
+  "license": "ISC"
+}
